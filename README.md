@@ -1,0 +1,1 @@
+This assignment was about created a random password generator.Implementing the random math function to create a random generated password with selectable characters (special characters,lowercase,uppercase) utilizing javascript for creating the desired password length and creating it to the desired characters.
