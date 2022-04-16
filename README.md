@@ -18,11 +18,11 @@ This project was about created a random password generator.Implementing the rand
 -Random Math
 
 ## Future Development
--Intergrate  copy/paste  function
+-Integrate  copy/paste  function
 
 -Apply user friendly mobile views
 
--Intergrate to REACT.js to create mobile save function and API
+-Integrate to REACT.js to create mobile save function and API
 
 -Apply more advanced options to further customization of personal passwords
 
